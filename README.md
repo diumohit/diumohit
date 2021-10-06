@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi. I am KA Mohit. A passionate web developer.
+I am KA Mohit. A passionate web developer.
 
 I'm currently working on Frontend designing, UI/UX designing and creating wordpress site.
 
+Familiar with php,javascript,bootstrap,scss,jquery,json,ajax etc.
+
 I'm currently learning Vue js and Laravel.
 
-I'm looking to collaborate on some owsome laravel and vue js project.
+I'm looking to collaborate on some awesome laravel and vue js project.
 
