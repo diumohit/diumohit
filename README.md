@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi. I am KA Mohit. A passionate web developer.
+
+I'm currently working on Frontend designing, UI/UX designing and creating wordpress site.
+
+I'm currently learning Vue js and Laravel.
+
+I'm looking to collaborate on some owsome laravel and vue js project.
+
