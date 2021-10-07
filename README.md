@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I am KA Mohit. A passionate web developer.
 
-I'm currently working on Frontend designing, UI/UX designing and creating wordpress site.
+I'm currently working on Frontend design, UI/UX design and wordpress.
 
-Familiar with php,javascript,bootstrap,scss,jquery,json,ajax etc.
+Familiar with Php,Laravel,Javascript,Bootstrap,Scss,Jquery,Json,Ajax etc.
 
 I'm currently learning Vue js and Laravel.
 
